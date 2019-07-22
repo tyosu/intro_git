@@ -2,3 +2,4 @@ git‚ğ—ûK‚µ‚Ü‚·
 ‚»‚¤‚È‚é‚È
 git add
 git commit
+gir remove
