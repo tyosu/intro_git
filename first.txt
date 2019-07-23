@@ -3,3 +3,4 @@ git‚ğ—ûK‚µ‚Ü‚·
 git add
 git commit
 gir remove
+git status
