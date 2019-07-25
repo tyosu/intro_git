@@ -4,3 +4,4 @@ git add
 git commit
 gir remove
 git status
+git diff
