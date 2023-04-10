@@ -1,7 +1,8 @@
-git‚ğ—ûK‚µ‚Ü‚·
-‚»‚¤‚È‚é‚È
+gitã‚’ç·´ç¿’ã—ã¾ã™
+ãã†ãªã‚‹ãª
 git add
 git commit
 gir remove
 git status
 git diff
+git add
